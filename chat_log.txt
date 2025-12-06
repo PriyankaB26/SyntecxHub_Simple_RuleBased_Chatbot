@@ -1,0 +1,80 @@
+[2025-12-06 23:53:32] BOT: Bye! (interrupted)
+[2025-12-06 23:53:32] SYSTEM: Chat session interrupted
+[2025-12-06 23:53:39] SYSTEM: Chat session started
+[2025-12-06 23:56:28] USER: hii
+[2025-12-06 23:56:28] BOT: Hello! 👋 How can I help you today?
+[2025-12-06 23:56:39] USER: what is ai
+[2025-12-06 23:56:39] BOT: Artificial Intelligence (AI) is the broader concept of machines performing tasks in ways that we would consider 'smart'.
+[2025-12-06 23:56:48] USER: applicatios of ai?
+[2025-12-06 23:56:48] BOT: Artificial Intelligence (AI) is the broader concept of machines performing tasks in ways that we would consider 'smart'.
+[2025-12-06 23:56:54] USER: what is big data
+[2025-12-06 23:56:54] BOT: Machine Learning (ML) is a subset of AI that allows systems to learn from data without being explicitly programmed.
+[2025-12-06 23:56:58] BOT: Bye! (interrupted)
+[2025-12-06 23:56:58] SYSTEM: Chat session interrupted
+[2025-12-07 00:24:00] SYSTEM: Chat session started
+[2025-12-07 00:24:13] USER: hi
+[2025-12-07 00:24:13] BOT: Hi there! What would you like to know?
+[2025-12-07 00:24:19] USER: how are you
+[2025-12-07 00:24:19] BOT: I'm a rule-based chatbot created for a demo project.
+[2025-12-07 00:24:23] USER: what up
+[2025-12-07 00:24:23] BOT: Hey! I'm here to help you.
+[2025-12-07 00:24:35] USER: what is neural network
+[2025-12-07 00:24:35] BOT: A neural network is a computational model inspired by the brain, composed of layers of interconnected 'neurons' that learn features from data.
+[2025-12-07 00:24:40] USER: application of ai
+[2025-12-07 00:24:40] BOT: Data Science is the field that focuses on extracting knowledge and insights from data using statistics and machine learning.
+[2025-12-07 00:24:52] USER: what is ML?
+[2025-12-07 00:24:52] BOT: Machine Learning (ML) is a subset of AI that allows systems to learn from data without being explicitly programmed.
+[2025-12-07 00:25:08] USER: what is dl?
+[2025-12-07 00:25:08] BOT: I'm doing great 😊 Thanks for asking! How about you?
+[2025-12-07 00:25:20] USER: what is deep learning
+[2025-12-07 00:25:20] BOT: Deep Learning is a subfield of ML that uses neural networks with multiple hidden layers to learn from large amounts of data.
+[2025-12-07 00:25:27] USER: what is big data
+[2025-12-07 00:25:27] BOT: Big Data refers to extremely large datasets that require special techniques and tools to store, process, and analyze.
+[2025-12-07 00:25:50] USER: can i do refund
+[2025-12-07 00:25:50] BOT: You can interact with me using simple sentences. Example:
+- hi
+- what is data science
+- who are you
+- bye
+[2025-12-07 00:25:59] USER: who are you
+[2025-12-07 00:25:59] BOT: I'm a rule-based chatbot created for a demo project.
+[2025-12-07 00:26:04] USER: bye
+[2025-12-07 00:26:04] BOT: Take care and come back anytime!
+[2025-12-07 00:26:04] SYSTEM: Chat session ended
+[2025-12-07 00:29:18] SYSTEM: Chat session started
+[2025-12-07 00:29:22] USER: hii
+[2025-12-07 00:29:22] BOT: Hi! Ready to chat?
+[2025-12-07 00:29:25] BOT: Bye! (interrupted)
+[2025-12-07 00:29:25] SYSTEM: Chat session interrupted
+[2025-12-07 00:31:53] SYSTEM: Chat session started
+[2025-12-07 00:31:58] USER: hii
+[2025-12-07 00:31:58] BOT: Hi! Ready to chat?
+[2025-12-07 00:32:00] BOT: Bye! (interrupted)
+[2025-12-07 00:32:00] SYSTEM: Chat session interrupted
+[2025-12-07 00:32:43] SYSTEM: Chat session started
+[2025-12-07 00:32:45] USER: hii
+[2025-12-07 00:32:45] BOT: Hey! I'm here to help you.
+[2025-12-07 00:32:49] USER: whats up
+[2025-12-07 00:32:49] BOT: Hey! I'm here to help you.
+[2025-12-07 00:32:58] USER: how are you doing
+[2025-12-07 00:32:58] BOT: You can call me Chatty 🤖
+[2025-12-07 00:33:08] BOT: Bye! (interrupted)
+[2025-12-07 00:33:08] SYSTEM: Chat session interrupted
+[2025-12-07 00:36:38] SYSTEM: Chat session started
+[2025-12-07 00:36:40] USER: hii
+[2025-12-07 00:36:40] BOT: Hi there! What would you like to know?
+[2025-12-07 00:36:53] USER: what is neural network
+[2025-12-07 00:36:53] BOT: A neural network is a computational model inspired by the brain, composed of layers of interconnected 'neurons' that learn features from data.
+[2025-12-07 00:36:58] USER: what is big data
+[2025-12-07 00:36:58] BOT: Big Data refers to extremely large datasets that require special techniques and tools to store, process, and analyze.
+[2025-12-07 00:37:01] USER: what is ml
+[2025-12-07 00:37:01] BOT: Machine Learning (ML) is a subset of AI that allows systems to learn from data without being explicitly programmed.
+[2025-12-07 00:37:07] USER: what is ai
+[2025-12-07 00:37:07] BOT: Artificial Intelligence (AI) is the ability of machines to perform tasks that normally require human intelligence.
+[2025-12-07 00:37:14] USER: applications of ai?
+[2025-12-07 00:37:14] BOT: AI applications include chatbots, recommendation systems, self-driving cars, medical diagnosis, and image recognition.
+[2025-12-07 00:37:20] USER: ok thanks
+[2025-12-07 00:37:20] BOT: You're welcome! Happy to help.
+[2025-12-07 00:37:23] USER: byee
+[2025-12-07 00:37:23] BOT: Goodbye! 👋 Have a great day!
+[2025-12-07 00:37:23] SYSTEM: Chat session ended

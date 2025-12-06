@@ -1,0 +1,169 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "good afternoon",
+        "hi there",
+        "hello there",
+        "hey bot",
+        "yo",
+        "hey buddy",
+        "what's up",
+        "howdy",
+        "hello assistant"
+      ],
+      "responses": [
+        "Hello! 👋 How can I help you today?",
+        "Hi there! What would you like to know?",
+        "Hey! I'm here to help you.",
+        "Hello 😊 Ask me anything!",
+        "Hi! Ready to chat?"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "help me",
+        "can you help me",
+        "i need help",
+        "support",
+        "assist me",
+        "how to use this bot",
+        "how does this work",
+        "what can you do",
+        "what are your features",
+        "guide me",
+        "what should i ask",
+        "demo",
+        "show how you work"
+      ],
+      "responses": [
+        "Sure! ✅ Here’s what I can do:\n1. Respond to greetings and small talk\n2. Answer domain questions (AI, ML, Data Science)\n3. Save conversation to a log file\n\nTry asking:\n- What is machine learning?\n- Define AI\n- What is your name?",
+        "I am a simple rule-based chatbot for demo purposes. You can greet me, do small talk, or ask domain questions like AI, ML, and Data Science.",
+        "You can interact with me using simple sentences. Example:\n- hi\n- what is data science\n- who are you\n- bye"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "smalltalk",
+      "patterns": [
+        "how are you",
+        "how are you doing",
+        "what's up",
+        "are you okay",
+        "are you fine",
+        "what is your name",
+        "who are you",
+        "are you a robot",
+        "what can i call you",
+        "who made you",
+        "do you like humans",
+        "are you real",
+        "where are you from"
+      ],
+      "responses": [
+        "I'm doing great 😊 Thanks for asking! How about you?",
+        "I'm a rule-based chatbot created for a demo project.",
+        "You can call me Chatty 🤖",
+        "I was created by a developer to demonstrate rule-based AI concepts.",
+        "I am always active as long as my program is running."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you",
+        "see you later",
+        "exit",
+        "quit",
+        "close",
+        "end chat",
+        "i have to go",
+        "talk to you later",
+        "catch you later"
+      ],
+      "responses": [
+        "Goodbye! 👋 Have a great day!",
+        "See you soon! 😊",
+        "Take care and come back anytime!",
+        "Bye bye! 👋",
+        "Chat ended. Have a nice day!"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you",
+        "thanks a lot",
+        "thank you so much",
+        "that's helpful",
+        "thanks for the help",
+        "i appreciate it",
+        "great thanks",
+        "cool thanks"
+      ],
+      "responses": [
+        "You're very welcome 😊",
+        "Glad I could help!",
+        "Anytime! 😄",
+        "You're welcome! Happy to help.",
+        "No problem at all!"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "domain_query",
+      "patterns": [
+        "what is artificial intelligence",
+        "what is ai",
+        "define ai",
+        "what is machine learning",
+        "define machine learning",
+        "what is ml",
+        "what is data science",
+        "define data science",
+        "what is deep learning",
+        "define deep learning",
+        "what is supervised learning",
+        "what is unsupervised learning",
+        "difference between ai and ml",
+        "difference between ml and data science",
+        "applications of ai",
+        "applications of machine learning",
+        "applications of data science",
+        "what is neural network",
+        "what is big data",
+        "what is a dataset",
+        "why is data important",
+        "what is algorithm",
+        "examples of ai",
+        "examples of machine learning",
+        "examples of data science"
+      ],
+      "responses": [
+        "Artificial Intelligence (AI) is the ability of machines to perform tasks that normally require human intelligence.",
+        "Machine Learning (ML) is a subset of AI that allows systems to learn from data without being explicitly programmed.",
+        "Data Science is the field that focuses on extracting knowledge and insights from data using statistics and machine learning.",
+        "Deep Learning is a subfield of ML that uses neural networks with multiple hidden layers.",
+        "Supervised learning uses labeled data, while unsupervised learning works with unlabeled data.",
+        "A Neural Network is a series of algorithms that try to recognize underlying relationships in data.",
+        "Big Data refers to very large datasets that cannot be handled easily with traditional methods.",
+        "Algorithms are step-by-step instructions used to solve a problem.",
+        "AI applications include chatbots, self-driving cars, and face recognition."
+      ],
+      "context": [""]
+    }
+  ]
+}
