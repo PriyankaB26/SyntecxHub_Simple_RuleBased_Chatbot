@@ -96,13 +96,8 @@ This helps in understanding:
 * Conversation logging
 
 ---
-
 ## 🎥 Implementation Video
 
-```markdown
-### Click below to watch the implementation video 👇
+https://github.com/user-attachments/assets/22af6639-bc55-4338-a192-9c3a117b665d
 
-[▶️ Watch Implementation Video](demo.mp4)
-```
 
----
