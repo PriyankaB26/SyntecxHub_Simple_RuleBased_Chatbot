@@ -51,9 +51,9 @@ def clean_text(text):
     return text
 
 
-def match_intent(user_msg, intents_data):
+def match_intents(user_msg, intents_data):
     """
-    Improved intent matcher:
+    Improved intents matcher:
       1) Knowledge-base keyword lookup (explicit mapping)
       2) Exact pattern match (whole-phrase, whole-word)
       3) Substring match
@@ -128,9 +128,9 @@ def interactive_chat():
 
             log_message('USER', user_input)
 
-            tag, response = match_intent(user_input, intents)
+            tag, response = match_intents(user_input, intents)
 
-            # handle explicit exit words in case intent detection missed
+            # handle explicit exit words in case intents detection missed
             if user_input.lower().strip() in ('exit', 'quit') or tag == 'goodbye':
                 if tag == 'goodbye' and response:
                     bot_reply = response

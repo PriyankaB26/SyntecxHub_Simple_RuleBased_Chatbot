@@ -66,14 +66,24 @@
         "who made you",
         "do you like humans",
         "are you real",
-        "where are you from"
+        "where are you from",
+        "cool",
+        "that's cool",
+        "nice",
+        "awesome",
+        "great",
+        "sounds good"
       ],
       "responses": [
         "I'm doing great 😊 Thanks for asking! How about you?",
         "I'm a rule-based chatbot created for a demo project.",
         "You can call me Chatty 🤖",
         "I was created by a developer to demonstrate rule-based AI concepts.",
-        "I am always active as long as my program is running."
+        "I am always active as long as my program is running.",
+        "Glad you liked it! 😊",
+        "Awesome! What would you like to try next?",
+        "Nice! Tell me if you want to ask a domain question.",
+        "Cool 😎 — Anything else I can help with?"
       ],
       "context": [""]
     },

@@ -6,7 +6,7 @@ A lightweight, console-based rule-driven chatbot that responds to user input usi
 
 ## 📌 Features
 
-- ✅ Intent classification using pattern/keyword matching  
+- ✅ intents classification using pattern/keyword matching  
 - ✅ Supports the following intents:
   - Greeting
   - Help / Support
@@ -14,7 +14,7 @@ A lightweight, console-based rule-driven chatbot that responds to user input usi
   - Goodbye
   - Thanks
   - Domain Questions (AI, ML, Data Science, Big Data)
-- ✅ Uses structured `intent.json` file
+- ✅ Uses structured `intents.json` file
 - ✅ Includes small built-in **knowledge base**
 - ✅ **Interactive console-based chat**
 - ✅ Saves chat history to `chat_log.txt`
@@ -38,7 +38,7 @@ A lightweight, console-based rule-driven chatbot that responds to user input usi
 Rule-Based-Chatbot/
 │
 ├── bot.py
-├── intent.json
+├── intents.json
 ├── chat_log.txt
 ├── demo.mp4  
 └── README.md
@@ -90,7 +90,7 @@ The goal of this project is to demonstrate how a chatbot can be created using **
 
 This helps in understanding:
 
-* Intent detection
+* intents detection
 * Rule-based response systems
 * Knowledge base design
 * Conversation logging
