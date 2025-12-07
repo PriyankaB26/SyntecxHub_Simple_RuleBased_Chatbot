@@ -78,3 +78,30 @@
 [2025-12-07 00:37:23] USER: byee
 [2025-12-07 00:37:23] BOT: Goodbye! 👋 Have a great day!
 [2025-12-07 00:37:23] SYSTEM: Chat session ended
+[2025-12-07 08:22:03] SYSTEM: Chat session started
+[2025-12-07 08:22:12] BOT: Bye! (interrupted)
+[2025-12-07 08:22:12] SYSTEM: Chat session interrupted
+[2025-12-07 08:22:42] SYSTEM: Chat session started
+[2025-12-07 08:22:44] BOT: Bye! (interrupted)
+[2025-12-07 08:22:44] SYSTEM: Chat session interrupted
+[2025-12-07 08:23:21] SYSTEM: Chat session started
+[2025-12-07 08:23:23] BOT: Bye! (interrupted)
+[2025-12-07 08:23:23] SYSTEM: Chat session interrupted
+[2025-12-07 08:24:15] SYSTEM: Chat session started
+[2025-12-07 08:24:18] USER: hii
+[2025-12-07 08:24:18] BOT: Hello 😊 Ask me anything!
+[2025-12-07 08:24:23] USER: what is neural network
+[2025-12-07 08:24:23] BOT: A neural network is a computational model inspired by the brain, composed of layers of interconnected 'neurons' that learn features from data.
+[2025-12-07 08:24:27] USER: what is ml
+[2025-12-07 08:24:27] BOT: Machine Learning (ML) is a subset of AI that allows systems to learn from data without being explicitly programmed.
+[2025-12-07 08:24:32] USER: what is big data
+[2025-12-07 08:24:32] BOT: Big Data refers to extremely large datasets that require special techniques and tools to store, process, and analyze.
+[2025-12-07 08:25:12] USER: applications of ai?
+[2025-12-07 08:25:12] BOT: AI applications include chatbots, recommendation systems, self-driving cars, medical diagnosis, and image recognition.
+[2025-12-07 08:25:14] USER: cool
+[2025-12-07 08:25:14] BOT: You're welcome! Happy to help.
+[2025-12-07 08:25:19] USER: who are you
+[2025-12-07 08:25:19] BOT: You can call me Chatty 🤖
+[2025-12-07 08:25:24] USER: okk byee
+[2025-12-07 08:25:24] BOT: Goodbye! 👋 Have a great day!
+[2025-12-07 08:25:24] SYSTEM: Chat session ended

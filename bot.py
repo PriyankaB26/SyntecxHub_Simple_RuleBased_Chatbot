@@ -101,11 +101,12 @@ def match_intent(user_msg, intents_data):
             best_overlap = overlap
             best_tag = item['tag']
     if best_tag:
+        if best_tag == 'domain_query':
+            for k in knowledge_base:
+                if k in text:
+                    return 'domain_query', knowledge_base[k]
         for item in intents_data['intents']:
             if item['tag'] == best_tag:
-                for k in knowledge_base:
-                    if k in text:
-                        return 'domain_query', knowledge_base[k]
                 return best_tag, random.choice(item['responses'])
 
     return None, None
